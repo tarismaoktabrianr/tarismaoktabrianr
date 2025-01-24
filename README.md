@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Education:
 
-#### 1. [SMPN 1 BAGOR] BAGOR, NGANJUK `2020-2023`
+#### 1. [SMPN 1 BAGOR](https://www.smpn1bagor.sch.id) BAGOR, NGANJUK `2020-2023`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
