@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 ## Education:
 
-#### 1. [SMPN 1 BAGOR](https://smpn1bagor.sch.id) | BAGOR, NGANJUK `2020-2023`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMKN 1 NGANJUK](https://smkn1nganjuk.sch.id) | PENGEMBANGAN GIM | NGANJUK `2023-sekarang`
-   - Chief of Rohkris
+#### 1. [SMPN 1 BAGOR](https://smpn1bagor.sch.id) | BAGOR, NGANJUK `2020-2023` 
+#### 2. [SMKN 1 NGANJUK](https://smkn1nganjuk.sch.id) | PENGEMBANGAN GIM | NGANJUK `2023-sekarang`
 
+### Connect with me:
+
+
+   
