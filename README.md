@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### 1. [SMPN 1 BAGOR](https://smpn1bagor.sch.id) | BAGOR, NGANJUK `2020-2023` 
 #### 2. [SMKN 1 NGANJUK](https://smkn1nganjuk.sch.id) | PENGEMBANGAN GIM | NGANJUK `2023-sekarang`
 
-### Connect with me:
+## Connect with me:
 
 ### [ig: tarismaoctbrnn_](https://www.instagram.com/tarrismaoctbrnn_?igsh=MXBpYmhva3cwM25pNA==)
 
